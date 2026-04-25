@@ -1,2 +1,6 @@
 2
-Adding new 1
+<<<<<<< HEAD
+Adding new 2
+=======
+Adding new 2
+>>>>>>> feature2
